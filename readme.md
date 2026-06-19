@@ -10,3 +10,4 @@ updated 2nd one
 7 th time man
 
 added collaborator 
+Now added collaborator using gmail
